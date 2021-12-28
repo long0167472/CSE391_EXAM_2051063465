@@ -1,0 +1,46 @@
+/* Home page */
+
+.container-fluid {
+    padding: 0;
+}
+
+.top-menu {
+    height: 46px;
+    background-color: #dc1588;
+}
+
+.hotline {
+    color: #fff;
+    font-weight: 700;
+    align-items: center;
+    padding: 6px 0 6px 0;
+}
+
+.nav {
+    justify-content: center;
+}
+
+.nav-top {
+    color: #fff;
+}
+
+.nav-bot {
+    color: #879AAC;
+    font-size: 21px;
+}
+
+.nav-link {
+    /* display: flex; */
+    align-items: center;
+}
+
+.menu-icon {
+    font-size: 34px !important;
+}
+
+
+/* Booking page */
+
+tr {
+    border: 1px solid;
+}
